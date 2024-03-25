@@ -1,0 +1,15 @@
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\PP_lr1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\PP_lr1.AssemblyInfoInputs.cache
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\PP_lr1.AssemblyInfo.cs
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\PP_lr1.csproj.CoreCompileInputs.cache
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\PP_lr1.sourcelink.json
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\bin\Debug\net6.0\PP_lr1.exe
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\bin\Debug\net6.0\PP_lr1.deps.json
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\bin\Debug\net6.0\PP_lr1.runtimeconfig.json
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\bin\Debug\net6.0\PP_lr1.dll
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\bin\Debug\net6.0\PP_lr1.pdb
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\PP_lr1.dll
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\refint\PP_lr1.dll
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\PP_lr1.pdb
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\PP_lr1.genruntimeconfig.cache
+D:\!Univercity\4s-patterns\PP_lr1\PP_lr1\obj\Debug\net6.0\ref\PP_lr1.dll
