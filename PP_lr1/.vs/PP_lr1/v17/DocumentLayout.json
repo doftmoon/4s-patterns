@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Artem\\Univercity\\4s-patterns\\PP_lr1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23B1D386-5FFD-44C6-AC63-C515EF704AAB}|PP_lr1\\PP_lr1.csproj|d:\\artem\\univercity\\4s-patterns\\pp_lr1\\pp_lr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B1D386-5FFD-44C6-AC63-C515EF704AAB}|PP_lr1\\PP_lr1.csproj|solutionrelative:pp_lr1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Artem\\Univercity\\4s-patterns\\PP_lr1\\PP_lr1\\Program.cs",
+              "RelativeDocumentMoniker": "PP_lr1\\Program.cs",
+              "ToolTip": "D:\\Artem\\Univercity\\4s-patterns\\PP_lr1\\PP_lr1\\Program.cs",
+              "RelativeToolTip": "PP_lr1\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T13:34:31.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

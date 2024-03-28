@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PP_lr1")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("lr1-basics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29ebc023c6f0aa3e572d47bc763f4197c676ee1b")]
-[assembly: System.Reflection.AssemblyProductAttribute("PP_lr1")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PP_lr1")]
+[assembly: System.Reflection.AssemblyProductAttribute("lr1-basics")]
+[assembly: System.Reflection.AssemblyTitleAttribute("lr1-basics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

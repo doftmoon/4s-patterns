@@ -1,0 +1,15 @@
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\bin\Debug\net8.0\lr1-basics.exe
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\bin\Debug\net8.0\lr1-basics.deps.json
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\bin\Debug\net8.0\lr1-basics.runtimeconfig.json
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\bin\Debug\net8.0\lr1-basics.dll
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\bin\Debug\net8.0\lr1-basics.pdb
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\lr1-basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\lr1-basics.AssemblyInfoInputs.cache
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\lr1-basics.AssemblyInfo.cs
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\lr1-basics.csproj.CoreCompileInputs.cache
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\lr1-basics.sourcelink.json
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\lr1-basics.dll
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\refint\lr1-basics.dll
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\lr1-basics.pdb
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\lr1-basics.genruntimeconfig.cache
+D:\Artem\Univercity\4s-patterns\cs-patterns\lr1-basics\obj\Debug\net8.0\ref\lr1-basics.dll
