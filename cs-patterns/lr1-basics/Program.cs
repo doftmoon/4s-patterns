@@ -58,11 +58,11 @@ namespace lr1_basics
 			{
 				string[] tempS = ProtectedFieldsListString();
 				int[] tempI = ProtectedFieldsValuesInt();
-				for(short i = 0; i < tempS.Length; i++)
+				for (short i = 0; i < tempS.Length; i++)
 				{
 					Console.WriteLine("{0} value by PrivateMethod: {1}", tempS[i], tempI[i]);
 				}
-            }
+			}
 			private void PrivateMethod2() { }
 			public void PublicGetAllValues()
 			{
@@ -131,8 +131,8 @@ namespace lr1_basics
 
 			//C1 showcase
 			C1 obj1 = new();
-            Console.WriteLine("_____C1 class showcase_____");
-            obj1.PublicField1 = 1;
+			Console.WriteLine("_____C1 class showcase_____");
+			obj1.PublicField1 = 1;
 			Console.WriteLine($"PublicField1 value: {obj1.PublicField1}");
 			obj1.PublicProperty = 2;
 			Console.WriteLine($"PublicProperty value: {obj1.PublicProperty}");
@@ -142,7 +142,7 @@ namespace lr1_basics
 			obj2.PublicField1 = 3;
 			Console.WriteLine($"PublicField1 value after change: {obj2.PublicField1}");
 			obj2.PublicProperty = 4;
-            Console.WriteLine($"PublicProperty value after change: {obj2.PublicProperty}");
+			Console.WriteLine($"PublicProperty value after change: {obj2.PublicProperty}");
 
 			C1 obj3 = new(9, 8, 7, 6, 5, 4, 3, 2, 1);
 			Console.WriteLine();

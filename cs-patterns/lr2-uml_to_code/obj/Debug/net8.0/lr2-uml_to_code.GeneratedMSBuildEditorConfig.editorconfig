@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = lr2_uml_to_code
-build_property.ProjectDir = D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\
+build_property.ProjectDir = D:\Artem\Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
