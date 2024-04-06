@@ -97,31 +97,148 @@ namespace lr1_basics
 			int this[int index] { get; set; }
 		}
 
-		public class C2 : C1, I1
+		public class C2 : I1
 		{
+			//cons
+			private const int PrivateConst1 = 0;
+			private const int PrivateConst2 = 1;
+			public const int PublicConst1 = 2;
+			public const int PublicConst2 = 3;
+			protected const int ProtectedConst1 = 4;
+			protected const int ProtectedConst2 = 5;
+			//fields
+			private int _privateField1;
+			private int _privateField2;
+			public int PublicField1;
+			public int PublicField2;
+			protected int ProtectedField1;
+			protected int ProtectedField2;
+			//prop
+			private int PrivateProperty { get; set; }
+			public int PublicProperty { get; set; }
+			protected int ProtectedProperty { get; set; }
+			//builders
+			public C2() { }
+
+			public C2(C2 other)
+			{
+				_privateField1 = other._privateField1;
+				_privateField2 = other._privateField2;
+				PublicField1 = other.PublicField1;
+				PublicField2 = other.PublicField2;
+				ProtectedField1 = other.ProtectedField1;
+				ProtectedField2 = other.ProtectedField2;
+				PrivateProperty = other.PrivateProperty;
+				PublicProperty = other.PublicProperty;
+				ProtectedProperty = other.ProtectedProperty;
+			}
+
+			public C2(int privateField1, int privateField2, int publicField1, int publicField2, int protectedField1,
+				int protectedField2, int privateProperty, int publicProperty, int protectedProperty)
+			{
+				_privateField1 = privateField1;
+				_privateField2 = privateField2;
+				PublicField1 = publicField1;
+				PublicField2 = publicField2;
+				ProtectedField1 = protectedField1;
+				ProtectedField2 = protectedField2;
+				PrivateProperty = privateProperty;
+				PublicProperty = publicProperty;
+				ProtectedProperty = protectedProperty;
+			}
+			//methods
+			private void PrivateGetAllValues()
+			{
+				string[] tempS = ProtectedFieldsListString();
+				int[] tempI = ProtectedFieldsValuesInt();
+				for (short i = 0; i < tempS.Length; i++)
+				{
+					Console.WriteLine("{0} value by PrivateMethod: {1}", tempS[i], tempI[i]);
+				}
+			}
+			private void PrivateMethod2() { }
+			public void PublicGetAllValues()
+			{
+				string[] tempS = ProtectedFieldsListString();
+				int[] tempI = ProtectedFieldsValuesInt();
+				for (ushort i = 0; i < tempS.Length; i++)
+				{
+					Console.WriteLine("{0} value by PublicMethod: {1}", tempS[i], tempI[i]);
+				}
+			}
+			public void PublicGetAllValuesFromPrivateMethod()
+			{
+				PrivateGetAllValues();
+			}
+			protected string[] ProtectedFieldsListString()
+			{
+				string[] fields = ["_privateField1", "_privateField2", "PublicField1", "PublicField2", "ProtectedField1", "ProtectedField2", "PrivateProperty", "PublicProperty", "ProtectedProperty"];
+				return fields;
+			}
+			protected int[] ProtectedFieldsValuesInt()
+			{
+				int[] values = [_privateField1, _privateField2, PublicField1, PublicField2, ProtectedField1, ProtectedField2, PrivateProperty, PublicProperty, ProtectedProperty];
+				return values;
+			}
+
 			public int MyProperty
 			{
-				get { return base.PublicProperty; }
-				set { base.PublicProperty = value; }
+				get { return PublicProperty; }
+				set { PublicProperty = value; }
 			}
 
 			public void MyMethod() { }
 			public event EventHandler? MyEvent;
 			public int this[int index]
 			{
-				get { return base.PublicField1; }
-				set { base.PublicField1 = value; }
+				get { return PublicField1; }
+				set { PublicField1 = value; }
 			}
 		}
 
-		public class C3
+		public class C3 : I1
 		{
+			private int _privateField = 1;
+			public int PublicField = 3;
+			protected int ProtectedField = 4;
+			public int PublicProperty { get; set; }
 
+			public C3()
+			{
+
+			}
+
+			public void Method ()
+			{
+				Console.WriteLine($"PrivateFiled value: {_privateField}; PublicField value: {PublicField}; ProtectedField value: {ProtectedField}");
+			}
+
+			public int MyProperty
+			{
+				get { return PublicProperty; }
+				set { PublicProperty = value; }
+			}
+
+			public void MyMethod() { }
+			public event EventHandler? MyEvent;
+			public int this[int index]
+			{
+				get { return PublicField; }
+				set { PublicField = value; }
+			}
 		}
 
 		public class C4 : C3
 		{
+			public C4()
+			{
 
+			}
+
+			public int SumMethod(int x, int y)
+			{
+				return x + y;
+			}
 		}
 
 		static void Main(string[] args)
@@ -176,6 +293,10 @@ namespace lr1_basics
 
 			//C4 class showcase
 			Console.WriteLine("______C4 class showcase_____");
+			C4 obj7 = new();
+			obj7.Method();
+			Console.WriteLine($"PublicField value: {obj7.PublicField}; ProtectedFiled value: {obj7.PublicField}");
+			Console.WriteLine(obj7.SumMethod(3, 6));
 		}
 	}
 }
