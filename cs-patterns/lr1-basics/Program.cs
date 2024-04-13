@@ -208,7 +208,7 @@ namespace lr1_basics
 
 			}
 
-			public void Method ()
+			public void Method()
 			{
 				Console.WriteLine($"PrivateFiled value: {_privateField}; PublicField value: {PublicField}; ProtectedField value: {ProtectedField}");
 			}

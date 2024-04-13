@@ -1,0 +1,15 @@
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\bin\Debug\net8.0\lr2-uml_to_code.exe
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\bin\Debug\net8.0\lr2-uml_to_code.deps.json
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\bin\Debug\net8.0\lr2-uml_to_code.runtimeconfig.json
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\bin\Debug\net8.0\lr2-uml_to_code.dll
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\bin\Debug\net8.0\lr2-uml_to_code.pdb
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\lr2-uml_to_code.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\lr2-uml_to_code.AssemblyInfoInputs.cache
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\lr2-uml_to_code.AssemblyInfo.cs
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\lr2-uml_to_code.csproj.CoreCompileInputs.cache
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\lr2-uml_to_code.sourcelink.json
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\lr2-uml_to_code.dll
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\refint\lr2-uml_to_code.dll
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\lr2-uml_to_code.pdb
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\lr2-uml_to_code.genruntimeconfig.cache
+D:\!Univercity\4s-patterns\cs-patterns\lr2-uml_to_code\obj\Debug\net8.0\ref\lr2-uml_to_code.dll

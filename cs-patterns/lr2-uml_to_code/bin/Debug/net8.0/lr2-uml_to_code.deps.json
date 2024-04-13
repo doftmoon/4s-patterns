@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "lr2-uml_to_code/1.0.0": {
+        "runtime": {
+          "lr2-uml_to_code.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lr2-uml_to_code/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
