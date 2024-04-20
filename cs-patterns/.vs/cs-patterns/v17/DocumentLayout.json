@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Artem\\Univercity\\4s-patterns\\cs-patterns\\",
+  "WorkspaceRootPath": "D:\\!University\\4s-patterns\\cs-patterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{109145AC-2B6D-44EA-BF56-60A4D83F2B61}|lr1-basics\\lr1-basics.csproj|d:\\artem\\univercity\\4s-patterns\\cs-patterns\\lr1-basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{109145AC-2B6D-44EA-BF56-60A4D83F2B61}|lr1-basics\\lr1-basics.csproj|solutionrelative:lr1-basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6795AF5E-C3B2-426D-B2E9-33BE107807FD}|Lec03BLibN\\Lec03BLibN.csproj|d:\\!university\\4s-patterns\\cs-patterns\\lec03blibn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6795AF5E-C3B2-426D-B2E9-33BE107807FD}|Lec03BLibN\\Lec03BLibN.csproj|solutionrelative:lec03blibn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2656A5-0298-44EE-8746-64695A171F0C}|PP03\\PP03.csproj|d:\\!university\\4s-patterns\\cs-patterns\\pp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2656A5-0298-44EE-8746-64695A171F0C}|PP03\\PP03.csproj|solutionrelative:pp03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E7E8393-7959-49D4-A547-E9D96A864373}|lr3-abstract_factory\\lr3-abstract_factory.csproj|d:\\!university\\4s-patterns\\cs-patterns\\lr3-abstract_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E7E8393-7959-49D4-A547-E9D96A864373}|lr3-abstract_factory\\lr3-abstract_factory.csproj|solutionrelative:lr3-abstract_factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Artem\\Univercity\\4s-patterns\\cs-patterns\\lr1-basics\\Program.cs",
-              "RelativeDocumentMoniker": "lr1-basics\\Program.cs",
-              "ToolTip": "D:\\Artem\\Univercity\\4s-patterns\\cs-patterns\\lr1-basics\\Program.cs",
-              "RelativeToolTip": "lr1-basics\\Program.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAEYAAAAtAAAA",
+              "DocumentMoniker": "D:\\!University\\4s-patterns\\cs-patterns\\Lec03BLibN\\Program.cs",
+              "RelativeDocumentMoniker": "Lec03BLibN\\Program.cs",
+              "ToolTip": "D:\\!University\\4s-patterns\\cs-patterns\\Lec03BLibN\\Program.cs",
+              "RelativeToolTip": "Lec03BLibN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T14:08:09.314Z",
+              "WhenOpened": "2024-04-19T19:52:33.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!University\\4s-patterns\\cs-patterns\\PP03\\Program.cs",
+              "RelativeDocumentMoniker": "PP03\\Program.cs",
+              "ToolTip": "D:\\!University\\4s-patterns\\cs-patterns\\PP03\\Program.cs",
+              "RelativeToolTip": "PP03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:51:38.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\!University\\4s-patterns\\cs-patterns\\lr3-abstract_factory\\Program.cs",
+              "RelativeDocumentMoniker": "lr3-abstract_factory\\Program.cs",
+              "ToolTip": "D:\\!University\\4s-patterns\\cs-patterns\\lr3-abstract_factory\\Program.cs",
+              "RelativeToolTip": "lr3-abstract_factory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:08:51.417Z",
               "EditorCaption": ""
             }
           ]

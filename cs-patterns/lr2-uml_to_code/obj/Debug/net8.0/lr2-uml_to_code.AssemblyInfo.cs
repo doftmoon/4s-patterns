@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lr2-uml_to_code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71b9937780d8aff8fa2f4ba95f0ce514b6cc43eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1227d3205c0bb5e8de56eea7a56b041a4fce0e2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("lr2-uml_to_code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lr2-uml_to_code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
