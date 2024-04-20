@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03BLibN.csproj": {}
+    "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj": {}
   },
   "projects": {
-    "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03BLibN.csproj": {
+    "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03BLibN.csproj",
-        "projectName": "Lec03BLibN",
-        "projectPath": "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03BLibN.csproj",
+        "projectUniqueName": "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj",
+        "projectName": "Lec03LibN",
+        "projectPath": "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj",
         "packagesPath": "C:\\Users\\moist\\.nuget\\packages\\",
         "outputPath": "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\obj\\",
         "projectStyle": "PackageReference",

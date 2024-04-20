@@ -7,11 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lr1-basics", "lr1-basics\lr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lr2-uml_to_code", "lr2-uml_to_code\lr2-uml_to_code.csproj", "{3A601AA1-EFED-4F69-98E4-A41AD91FE486}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lr3-abstract_factory", "lr3-abstract_factory\lr3-abstract_factory.csproj", "{8E7E8393-7959-49D4-A547-E9D96A864373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lr3-abstract_factory", "lr3-abstract_factory\lr3-abstract_factory.csproj", "{8E7E8393-7959-49D4-A547-E9D96A864373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lec03BLibN", "Lec03BLibN\Lec03BLibN.csproj", "{6795AF5E-C3B2-426D-B2E9-33BE107807FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lec03LibN", "Lec03BLibN\Lec03LibN.csproj", "{6795AF5E-C3B2-426D-B2E9-33BE107807FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PP03", "PP03\PP03.csproj", "{7C2656A5-0298-44EE-8746-64695A171F0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PP03", "PP03\PP03.csproj", "{7C2656A5-0298-44EE-8746-64695A171F0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
