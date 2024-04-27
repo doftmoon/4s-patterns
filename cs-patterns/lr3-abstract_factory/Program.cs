@@ -21,7 +21,7 @@ namespace lr3_abstract_factory
 		{
 			static public partial IFactory getL1()
 			{
-
+				
 			}
 
 			static public partial IFactory getL2(float a)

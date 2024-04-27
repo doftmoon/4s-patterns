@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj": {}
+    "D:\\!University\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj": {}
   },
   "projects": {
-    "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj": {
+    "D:\\!University\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj",
+        "projectUniqueName": "D:\\!University\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj",
         "projectName": "Lec03LibN",
-        "projectPath": "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj",
+        "projectPath": "D:\\!University\\4s-patterns\\cs-patterns\\Lec03BLibN\\Lec03LibN.csproj",
         "packagesPath": "C:\\Users\\moist\\.nuget\\packages\\",
-        "outputPath": "D:\\!Univercity\\4s-patterns\\cs-patterns\\Lec03BLibN\\obj\\",
+        "outputPath": "D:\\!University\\4s-patterns\\cs-patterns\\Lec03BLibN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\moist\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
