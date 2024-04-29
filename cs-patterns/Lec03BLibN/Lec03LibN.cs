@@ -13,11 +13,24 @@
 		IBonus getC(float cost1hour, float x, float y);
 	}
 
-	public static partial class Lec03BLib
+	static public partial class Lec03BLib
 	{
 		static public partial IFactory getL1()
 		{
+			IBonus getA(float cost1hour)
+			{
+				return new L1A(cost1hour);
+			}
 
+			IBonus getB(float cost1hour, float x)
+			{
+				return new L1B(cost1hour, x);
+			}
+
+			IBonus getC(float cost1hour, float x, float y)
+			{
+				return new L1C(cost1hour, x, y);
+			}
 		}
 
 		static public partial IFactory getL2(float a)
