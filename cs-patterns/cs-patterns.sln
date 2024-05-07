@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lr2-uml_to_code", "lr2-uml_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lr3-abstract_factory", "lr3-abstract_factory\lr3-abstract_factory.csproj", "{8E7E8393-7959-49D4-A547-E9D96A864373}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lec03BLibN", "Lec03BLibN\Lec03BLibN.csproj", "{6795AF5E-C3B2-426D-B2E9-33BE107807FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lec03LibN", "Lec03BLibN\Lec03LibN.csproj", "{6795AF5E-C3B2-426D-B2E9-33BE107807FD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PP03", "PP03\PP03.csproj", "{7C2656A5-0298-44EE-8746-64695A171F0C}"
 EndProject

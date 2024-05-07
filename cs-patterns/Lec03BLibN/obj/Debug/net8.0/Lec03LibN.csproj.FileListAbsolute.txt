@@ -1,0 +1,5 @@
+D:\!Univercity\4s-patterns\cs-patterns\Lec03BLibN\obj\Debug\net8.0\Lec03LibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Univercity\4s-patterns\cs-patterns\Lec03BLibN\obj\Debug\net8.0\Lec03LibN.AssemblyInfoInputs.cache
+D:\!Univercity\4s-patterns\cs-patterns\Lec03BLibN\obj\Debug\net8.0\Lec03LibN.AssemblyInfo.cs
+D:\!Univercity\4s-patterns\cs-patterns\Lec03BLibN\obj\Debug\net8.0\Lec03LibN.csproj.CoreCompileInputs.cache
+D:\!Univercity\4s-patterns\cs-patterns\Lec03BLibN\obj\Debug\net8.0\Lec03LibN.sourcelink.json
